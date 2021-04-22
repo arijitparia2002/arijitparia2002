@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitparia2002/)](https://www.linkedin.com/in/arijitparia2002/) 
 [![Twitter Badge](https://img.shields.io/badge/-@arijitparia2002-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arijitparia2002)](https://twitter.com/arijitparia2002) 
 [![Facebook Badge](https://img.shields.io/badge/-@arijitparia2002-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/arijitparia21)](https://www.facebook.com/arijitparia21) 
-[![Instagram Badge](https://img.shields.io/badge/-@arijitparia2002-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arijitparia2002)](https://www.instagram.com/arijitparia2002) 
+[![Instagram Badge](https://img.shields.io/badge/-@arijitparia2002-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/its_arijit_ap)](https://www.instagram.com/its_arijit_ap) 
 <!--
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@arijitparia2002-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/arijitparia2002)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
