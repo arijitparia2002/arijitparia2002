@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🌱 I’m currently learning **Cpp & Python Language** 
 - 
-- 🥅 2021 Goals: **Learn Competitive Programming **
+- 🥅 2021 Goals: **Learn Competitive Programming**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitparia2002/)](https://www.linkedin.com/in/arijitparia2002/) 
