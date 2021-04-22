@@ -1,14 +1,14 @@
 ### Hi there I Am Arijit Paria <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=arijitparia2002&color=blue)
-<h3>A  programmer in build.</h3>
+<h3>A  Self-motivated computer science student with keen interest in coding.</h3>
 
 
 
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
-- 🌱 I’m currently learning **COMPETITIVE PROGRAMMING** 
+- 🌱 I’m currently learning **Cpp & Python Language** 
 - 
-- 🥅 2021 Goals: **Learn new stacks**
+- 🥅 2021 Goals: **Learn Competitive Programming **
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitparia2002/)](https://www.linkedin.com/in/arijitparia2002/) 
