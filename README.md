@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🌱 I’m currently learning **Cpp & Python Language** 
-- 
 - 🥅 2021 Goals: **Learn Competitive Programming**
 
 
@@ -19,9 +18,9 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@arijitparia2002-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/arijitparia2002)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
 
-
-### 📈 Github Stats:
-
+<center>
+### 📈 Github Stats
+</center>
 <a href="https://github.com/arijitparia2002">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitparia2002&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
