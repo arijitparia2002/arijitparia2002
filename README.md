@@ -20,14 +20,14 @@
 
 <center>
 <h2>📈 Github Stats<h2>
-</center>
+
 <a href="https://github.com/arijitparia2002">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitparia2002&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arijitparia2002&layout=compact&theme=blue-green" />
 </a>
-
+</center>
 
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
