@@ -18,12 +18,12 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@arijitparia2002-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/arijitparia2002)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
 
-<center>
+
 <h2>📈 Github Stats<h2>
 
 <a href="https://github.com/arijitparia2002">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitparia2002&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a></center><br>
+</a><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arijitparia2002&layout=compact&theme=blue-green" />
 </a>
