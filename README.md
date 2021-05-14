@@ -1,4 +1,4 @@
-### Hi there I Am Arijit Paria <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+## Hi there I Am Arijit Paria <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=arijitparia2002&color=blue)
 <h3>A  Self-motivated computer science student with keen interest in coding.</h3>
