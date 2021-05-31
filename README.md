@@ -8,6 +8,7 @@
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
 - 🌱 I’m currently learning **Cpp & Python Language** 
 - 🥅 2021 Goals: **Learn Competitive Programming**
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLlntQfRHhjjBCeKTdXPqESbahe8htvCZa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arijitparia2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitparia2002/)](https://www.linkedin.com/in/arijitparia2002/) 
