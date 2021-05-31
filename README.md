@@ -27,7 +27,6 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arijitparia2002&layout=compact&theme=blue-green" />
 </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLlntQfRHhjjBCeKTdXPqESbahe8htvCZa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">-->
