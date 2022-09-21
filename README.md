@@ -2,7 +2,8 @@
 
 <div style="background-color:#121212">
 <div style="color:#fff">
-# Hi, I am Arijit Paria! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi, I am Arijit Paria! 
+<img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=arijitparia2002&color=blue)<br>
