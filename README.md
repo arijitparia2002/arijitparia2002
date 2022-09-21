@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Arijit Paria</h1>
-<h3 align="center">B. Tech CSE undergraduate & a AI/ML enthusiast</h3>
+<h3 align="center">B. Tech CSE undergraduate & AI/ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutoriex&label=Profile%20views&color=0e75b6&style=flat" alt="tutoriex" /> </p>
 
