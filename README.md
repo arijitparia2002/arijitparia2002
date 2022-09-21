@@ -1,8 +1,8 @@
 
-
+# Hi, I am Arijit Paria!
 <div style="background-color:#121212">
 <div style="color:#fff">
-#Hi, I am Arijit Paria! 
+ 
 <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
