@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutoriex&label=Profile%20views&color=0e75b6&style=flat" alt="tutoriex" /> </p>
 
-<h2 align="left">About me:</h2>
+<h1 align="left">About me:</h1>
 
 🔭 I’m currently working on [Coupon Authentication](https://github.com/TUTORIEX/Coupon-authentication)
 
@@ -11,13 +11,10 @@
 
 📫 How to reach me **arijitparia2020@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/arijit-paria-0234261b7" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/72959650/216778960-afd7ae5d-dfa4-4bac-955a-01e9a77b0b8a.png)" alt="arijit-paria-0234261b7" height="30" width="40" /></a>
-<a href="https://instagram.com/arijitparia_" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/72959650/216778989-b3f4b6d5-5432-48ed-81d5-9ba628a68142.png)" alt="tutoriex_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtT5S9Nyrs5jQOdruFObx5w" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/72959650/216779005-cc80c555-92f1-4571-a649-7a62c5b6043d.png)" alt="tutoriex" height="30" width="40" /></a>
-<a href="https://www.facebook.com/arijitparia2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutoriex" height="30" width="40" /></a>
-<a href="https://in.pinterest.com/arijitparia2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="tutoriex" height="30" width="40" /></a>
+
+
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arijitparia_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arijit-paria-0234261b7) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arijitparia2020) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCtT5S9Nyrs5jQOdruFObx5w) 
 
  <!--
 <a href="https://codepen.io/arijit2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arijit2002" height="30" width="40" /></a>
