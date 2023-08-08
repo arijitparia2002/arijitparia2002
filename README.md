@@ -5,7 +5,7 @@
 
 <h1 align="left">About me:</h1>
 
-🔭 I’m currently working on [Coupon Authentication](https://github.com/TUTORIEX/Coupon-authentication)
+🔭 I’m currently working on [QuickTask AI - Bard and ChatGPT App](https://chrome.google.com/webstore/detail/quicktask-ai-bard-and-cha/enkpdkkepcfneniefhijllbcohejkcjk)
 
 🌱 I’m currently learning **TensorFlow & Firebase**
 
