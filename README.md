@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [QuickTask AI - Bard and ChatGPT App](https://chrome.google.com/webstore/detail/quicktask-ai-bard-and-cha/enkpdkkepcfneniefhijllbcohejkcjk)
-- 🌱 I’m diving deep into **Next Js & DevOps**
+- 🔭 I’m currently working on [Salesforce Debugger - All in One](https://chromewebstore.google.com/detail/salesforce-debugger-all-i/dmfledeppinlciakcinbegohoadmbigm)
+- 🌱 I’m diving deep into **Next Js & Chrome extension technology**
 - 💌 How to reach me: <a href="mailto:arijitparia2020@gmail.com">arijitparia2020@gmail.com</a>
 
 ---
